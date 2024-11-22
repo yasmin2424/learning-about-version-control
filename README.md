@@ -2,3 +2,4 @@
 
 Author: **Yasmin Hassan**
 
+Solving merge conflicts is soooooo hard!
