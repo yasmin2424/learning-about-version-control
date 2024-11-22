@@ -2,3 +2,4 @@
 
 Author: **Yasmin Hassan**
 
+Solving maerge conflicts is easy!
